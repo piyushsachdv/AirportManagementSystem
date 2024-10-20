@@ -1,0 +1,114 @@
+--- Airport Management System ---
+
+1. Add Flight
+2. Add Passenger
+3. Book Flight
+4. View Flights
+5. View Passengers
+6. View Bookings
+7. Search Flight
+8. Delete Flight
+9. Exit
+
+Enter your choice: 1
+---------------------------
+Add Flight
+---------------------------
+Enter flight number: AB123
+Enter origin: New York
+Enter destination: London
+Enter departure time (YYYY-MM-DD HH:MM): 2024-10-25 15:30
+Enter arrival time (YYYY-MM-DD HH:MM): 2024-10-26 05:45
+Flight added successfully!
+
+--- Airport Management System ---
+
+1. Add Flight
+2. Add Passenger
+3. Book Flight
+4. View Flights
+5. View Passengers
+6. View Bookings
+7. Search Flight
+8. Delete Flight
+9. Exit
+
+Enter your choice: 2
+---------------------------
+Add Passenger
+---------------------------
+Enter passenger name: John Doe
+Enter passport number: X12345678
+Enter nationality: American
+Passenger added successfully!
+
+--- Airport Management System ---
+
+1. Add Flight
+2. Add Passenger
+3. Book Flight
+4. View Flights
+5. View Passengers
+6. View Bookings
+7. Search Flight
+8. Delete Flight
+9. Exit
+
+Enter your choice: 3
+---------------------------
+Book Flight
+---------------------------
+Enter flight ID: 1
+Enter passenger ID: 1
+Flight booked successfully!
+
+--- Airport Management System ---
+
+1. Add Flight
+2. Add Passenger
+3. Book Flight
+4. View Flights
+5. View Passengers
+6. View Bookings
+7. Search Flight
+8. Delete Flight
+9. Exit
+
+Enter your choice: 4
+---------------------------
+View Flights
+---------------------------
+ID: 1, Number: AB123, From: New York To: London, Departure: 2024-10-25 15:30, Arrival: 2024-10-26 05:45
+
+--- Airport Management System ---
+
+1. Add Flight
+2. Add Passenger
+3. Book Flight
+4. View Flights
+5. View Passengers
+6. View Bookings
+7. Search Flight
+8. Delete Flight
+9. Exit
+
+Enter your choice: 6
+---------------------------
+View Bookings
+---------------------------
+Booking ID: 1, Flight: AB123, Passenger: John Doe, Date: 2024-10-25 15:30:00
+
+--- Airport Management System ---
+
+1. Add Flight
+2. Add Passenger
+3. Book Flight
+4. View Flights
+5. View Passengers
+6. View Bookings
+7. Search Flight
+8. Delete Flight
+9. Exit
+
+Enter your choice: 9
+Exiting program. Thank you for using the Airport Management System!
